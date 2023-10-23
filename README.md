@@ -2,7 +2,7 @@
 Data analysis for images from the uv-vis-ir camera
 
 ## Quick start
-Download the repository of images from this [Google Drive Foler](https://drive.google.com/drive/folders/1ID0S1DbNHXsJww9g15v8_qBL540pODlu?usp=sharing) and place in a folder called `VIS_IR_DATASET`. Then run the relevant Jupyter Notebooks.
+Download the repository of images from this [Google Drive Folder](https://drive.google.com/drive/folders/1ID0S1DbNHXsJww9g15v8_qBL540pODlu?usp=sharing) and place in a folder called `VIS_IR_DATASET`. Then run the relevant Jupyter Notebooks.
 
 To download the relevant Python packages required for the notebooks to work run the following:
 ```

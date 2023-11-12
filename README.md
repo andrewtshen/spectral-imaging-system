@@ -1,4 +1,4 @@
-# uv-vis-ir
+# Spectral Imaging System
 Data analysis for images from the uv-vis-ir camera
 
 ## Quick start

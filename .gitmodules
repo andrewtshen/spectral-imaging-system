@@ -4,3 +4,6 @@
 [submodule "Sandbox-Comp-Neuro"]
 	path = Sandbox-Comp-Neuro
 	url = git@github.com:atsu-kotani/Sandbox-Comp-Neuro.git
+[submodule "sis-website"]
+	path = sis-website
+	url = git@github.com:andrewtshen/sis-website.git

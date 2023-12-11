@@ -1,3 +1,6 @@
 [submodule "notebooks/SuperGluePretrainedNetwork"]
 	path = notebooks/SuperGluePretrainedNetwork
 	url = https://github.com/magicleap/SuperGluePretrainedNetwork
+[submodule "Sandbox-Comp-Neuro"]
+	path = Sandbox-Comp-Neuro
+	url = git@github.com:atsu-kotani/Sandbox-Comp-Neuro.git
